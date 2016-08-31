@@ -7,6 +7,6 @@ You can run the project in Android Studio or create an APK with the following co
 
 or
 
-`./gradlew assembleDebug
+`./gradlew assembleDebug`
 
 More details here: [https://diego.org/2015/01/07/embedding-crosswalk-in-android-studio/](https://diego.org/2015/01/07/embedding-crosswalk-in-android-studio/)
