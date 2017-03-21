@@ -1,6 +1,8 @@
 # CrosswalkDemo
 A simple project showing how to embed Crosswalk into an Android application.
 
+*Note*: The Crosswalk team has stopped development on this project.  You can read more about it here: [Crosswalk 23 to be the last Crosswalk release](https://crosswalk-project.org/blog/crosswalk-final-release.html)
+
 # Setup
 To open this project in Android Studo:
 
